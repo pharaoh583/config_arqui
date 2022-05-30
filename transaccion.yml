@@ -1,0 +1,6 @@
+erver:
+  port: 8002
+
+  spring:
+    application:
+	    name: transaccion
